@@ -17,7 +17,7 @@
 <p align="left">
   💼 Herraminetas: 
   <code><img height="32" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="github"/></code>
-<code><img height="32" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="mysql"/></code>
+<code><img height="32" src="[https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)" alt="mysql"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
